@@ -68,7 +68,7 @@ lib/
 
 1. **Clone o Repositório**:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/JulianoSant/u-list-test.git
    cd u_list
    ```
 
